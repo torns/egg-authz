@@ -1,5 +1,5 @@
 {
-  "name": "egg-authz",
+  "name": "torn-egg-authz",
   "version": "1.0.1",
   "description": "egg-authz is an authorization middleware for Egg.js",
   "main": "authz.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/node-casbin/egg-authz.git"
+    "url": "https://github.com/torns/egg-authz.git"
   },
   "keywords": [
     "node-casbin",
@@ -23,17 +23,17 @@
     "middleware"
   ],
   "author": {
-    "name": "Chalin-Shi",
-    "email": "18875906195@163.com"
+    "name": "torn",
+    "email": "torns@qq.com"
   },
   "license": "Apache-2.0",
   "engines": {
     "node": ">= 7.6.0"
   },
   "bugs": {
-    "url": "https://github.com/node-casbin/egg-authz/issues"
+    "url": "https://github.com/torns/egg-authz/issues"
   },
-  "homepage": "https://github.com/node-casbin/egg-authz#readme",
+  "homepage": "https://github.com/torns/egg-authz#readme",
   "dependencies": {
     "koa-authz": "^1.0.1"
   },
